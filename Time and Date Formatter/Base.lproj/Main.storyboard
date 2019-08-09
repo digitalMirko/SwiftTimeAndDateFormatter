@@ -104,6 +104,9 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="263" height="45"/>
                                                 <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="24"/>
                                                 <state key="normal" title="Refresh Time and Date"/>
+                                                <connections>
+                                                    <action selector="refreshButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="sVg-JJ-hlL"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -119,6 +122,18 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="timeDate01Label" destination="3QX-kj-WRO" id="3wq-v4-U07"/>
+                        <outlet property="timeDate02Label" destination="z6l-KE-xra" id="TLT-Kd-iEq"/>
+                        <outlet property="timeDate03Label" destination="efF-cb-Ugr" id="HTm-Bk-4Ih"/>
+                        <outlet property="timeDate04Label" destination="oNh-Uv-vWR" id="Mo3-BK-kfj"/>
+                        <outlet property="timeDate05Label" destination="two-2d-j0g" id="seV-ne-Hdi"/>
+                        <outlet property="timeDate06Label" destination="eQ2-Z8-dwN" id="BSO-9k-hKr"/>
+                        <outlet property="timeDate07Label" destination="hbA-MY-ViF" id="maC-Yk-0Lq"/>
+                        <outlet property="timeDate08Label" destination="O88-aY-ywT" id="XzV-p8-cAG"/>
+                        <outlet property="timeDate09Label" destination="B4O-tb-IZJ" id="oRL-vT-3eX"/>
+                        <outlet property="timeDate10Label" destination="KlL-wU-m2v" id="Pyv-Ge-ZV8"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
