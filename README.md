@@ -15,8 +15,8 @@ Details and the screen cap images of the app in use can be found on <a href="htt
 
 Screen Cap on a iPhone Xr device:(shown below)</br>
 (Left image)App Started.<br>
-(Middle Image)Scrolled down and Selected Row #20.<br>
-(Right image)'Scrolled all the way down to the bottom and Selected Row #50.<br>
+(Middle Image)"Refresh Time and Date" Btn Clicked.<br>
+(Right image)"Refresh Time and Date" Btn Clicked.<br>
   <p>
   <img align="left" src="https://github.com/digitalMirko/SwiftTimeAndDateFormatter/blob/master/github-iphoneSwiftTimeAndDateFormatterDemo01.jpg?raw=true" width="246"/>
   <img align="left" src="https://github.com/digitalMirko/SwiftTimeAndDateFormatter/blob/master/github-iphoneSwiftTimeAndDateFormatterDemo02.jpg?raw=true" width="246"/>
